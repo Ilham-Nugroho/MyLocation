@@ -1,0 +1,20 @@
+#map {
+  width: 90%;
+  height: 60vh;
+}
+
+th {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+td {
+  width: 50%;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+td.right {
+  text-align: end;
+}
